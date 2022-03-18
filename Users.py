@@ -124,5 +124,4 @@ class Moderator(User):
 
 
 
-me = Moderator("ghih", 'joe', 'mama', 18)
-print(me.profile_pic())
+
